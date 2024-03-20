@@ -3,6 +3,8 @@
 **BarberPro** is your go-to platform for scheduling barber appointments with the finest barbershops in your city.
 select your preferred barber, and reserve your appointment with ease. Say goodbye to waiting and hello to a well-organized grooming schedule tailored just for you.
 
+<img width="913" alt="Service" src="https://github.com/Morabet/BarberPro/assets/103321607/1bc06c5d-7e11-4928-bf47-e9021e07e831">
+
 ## Overview
 
 **Backend** is responsible for handling all server-side logic, data storage, and communication with the frontend of the application. It provides RESTful APIs for performing various operations, such as user authentication, appointment booking, and review management.
@@ -33,9 +35,8 @@ select your preferred barber, and reserve your appointment with ease. Say goodby
 
 ## API Documentation
 
-```
-The API documentation for BarberPro Backend can be found api/v1/views. you will find here all the files that are used to create the apis.
-```
+The API documentation for BarberPro Backend can be found **api/v1/views**. you will find here all the files that are used to create the apis.
+
 
 ## Contributing
 
@@ -44,4 +45,5 @@ Contributions to BarberPro are welcome! If you encounter any bugs, have feature 
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
+
 

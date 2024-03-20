@@ -3,7 +3,7 @@
 **BarberPro** is your go-to platform for scheduling barber appointments with the finest barbershops in your city.
 select your preferred barber, and reserve your appointment with ease. Say goodbye to waiting and hello to a well-organized grooming schedule tailored just for you.
 
-<img width="913" alt="Service" src="https://github.com/Morabet/BarberPro/assets/103321607/1bc06c5d-7e11-4928-bf47-e9021e07e831">
+![BarberLogo](https://github.com/Morabet/BarberPro/assets/103321607/171ae379-dcfe-4286-9d02-82ce2f3f9ce9)
 
 ## Overview
 
